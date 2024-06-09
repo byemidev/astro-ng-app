@@ -19,9 +19,9 @@ pnpm-debug.log*
 .DS_Store
 
 #others
-.astro
-.firebase
-.idx
-.vscode
+.astro/
+.firebase/
+.idx/
+.vscode/
 
 
